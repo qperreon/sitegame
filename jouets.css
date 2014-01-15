@@ -1,4 +1,4 @@
-h1 { /** gros titre */
+h11 { /** gros titre */
   font-family: serif;         /* On se permet un changement de police : pas plus de deux par page, et à utiliser avec parcimonie (c'est le cas) */
   background: black;   /* Fond du titre bleu (et sans image de fond) */
   color: white;               /*  Donc on utilise une police blanche pour que le texte soit visible */

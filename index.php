@@ -17,7 +17,7 @@
             $jour = $aujourdhui['mday'];
             $mois = $aujourdhui['mon'];
             $an = $aujourdhui['year'];
-            echo "<h1>Bienvenue sur le site des produits Jouets en Bois,  aujourd'hui  le $jour/$mois/$an </h1>";
+            echo "<h1>Bienvenue sur le site des produits Jouets en Bois,  aujourd'hui  nous sommes le $jour/$mois/$an </h1>";
             ?>
 
             <p><h4>Petit site didactique</h4></p>
